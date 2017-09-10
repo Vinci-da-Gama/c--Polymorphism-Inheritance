@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D011907E-65D8-42C5-ACA6-936F88FC9272}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>libray_polymophesim_inheritance</RootNamespace>
-    <AssemblyName>libray_polymophesim_inheritance</AssemblyName>
+    <ProjectGuid>{8725B321-08A8-4102-9005-72DA2B2DB285}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>lpi.Classes</RootNamespace>
+    <AssemblyName>lpi.Classes</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -42,17 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Default_Program.cs" />
+    <Compile Include="Calculate.cs" />
+    <Compile Include="People.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\lpi.Classes\lpi.Classes.csproj">
-      <Project>{8725b321-08a8-4102-9005-72da2b2db285}</Project>
-      <Name>lpi.Classes</Name>
-    </ProjectReference>
     <ProjectReference Include="..\lpi.Contracts\lpi.Contracts.csproj">
       <Project>{14bc87a7-162f-4004-968e-cadf90fb812b}</Project>
       <Name>lpi.Contracts</Name>
