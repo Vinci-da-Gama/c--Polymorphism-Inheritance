@@ -1,0 +1,6 @@
+C:\Users\Anubis\VsPj\FundationPj_Practice\libray_polymophesim_inheritance_Solu\Additional_ClassesLibrary\bin\Debug\Additional_ClassesLibrary.exe.config
+C:\Users\Anubis\VsPj\FundationPj_Practice\libray_polymophesim_inheritance_Solu\Additional_ClassesLibrary\bin\Debug\Additional_ClassesLibrary.exe
+C:\Users\Anubis\VsPj\FundationPj_Practice\libray_polymophesim_inheritance_Solu\Additional_ClassesLibrary\bin\Debug\Additional_ClassesLibrary.pdb
+C:\Users\Anubis\VsPj\FundationPj_Practice\libray_polymophesim_inheritance_Solu\Additional_ClassesLibrary\obj\Debug\Additional_ClassesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anubis\VsPj\FundationPj_Practice\libray_polymophesim_inheritance_Solu\Additional_ClassesLibrary\obj\Debug\Additional_ClassesLibrary.exe
+C:\Users\Anubis\VsPj\FundationPj_Practice\libray_polymophesim_inheritance_Solu\Additional_ClassesLibrary\obj\Debug\Additional_ClassesLibrary.pdb
